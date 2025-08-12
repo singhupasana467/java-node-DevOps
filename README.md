@@ -80,7 +80,3 @@ The workflow file `deploy.yaml` automates:
 
 - Ensure both containers are running for full functionality.
 - The frontend expects the backend to be accessible at `http://localhost:8080`.
-
----
-
-Let me know if you want to add usage instructions for Kubernetes or a troubleshooting section for common build errors.
